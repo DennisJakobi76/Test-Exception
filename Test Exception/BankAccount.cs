@@ -8,6 +8,13 @@ namespace Test_Exception
     {
         private double balance;
 
+        public double Balance
+        {
+            get { return balance; }
+            set { balance = value; }
+        }
+
+
         public BankAccount()
         {
             balance = 0.0;
