@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Test_Exception
 {
-    public class BankAccount
+    internal class BankAccount
     {
         private double balance;
 
