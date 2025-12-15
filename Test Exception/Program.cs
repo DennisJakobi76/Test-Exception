@@ -12,7 +12,7 @@ namespace Test_Exception
 
             do
             {
-                Console.WriteLine("-------- BANK ACOOUNT MENU --------");
+                Console.WriteLine("\n\n\n\n-------- BANK ACOOUNT MENU --------");
                 Console.WriteLine("1 - Deposit");
                 Console.WriteLine("2 - Withdraw");
                 Console.WriteLine("3 - Show Current Balance");
